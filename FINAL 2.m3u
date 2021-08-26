@@ -1,1 +1,616 @@
-# FINAL-2
+#EXTM3U
+#EXTINF:-1 group-title="DEPORTES",LAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2089&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS(720p)" tvg-logo="http://s0lc.net:8080/imagenes/97.jpg" group-title="DEPORTES - SPORTS",AYM SPORTS (720p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS NETWORK (720p)" tvg-logo="http://s0lc.net:8080/imagenes/14641.jpg" group-title="DEPORTES - SPORTS",ADRENALINA SPORTS NETWORK (720p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://s0lc.net:8080/imagenes/9780.jpg" group-title="DEPORTES - SPORTS",AFIZZIONADOS
+https://live.tvplusgratis.com/hls/jdhnvdfdf/28_.m3u8?token=m9ItfxmY06hdu0dYYlQ2qw&expires=1629533613
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="CLARO SPORTS" tvg-logo="http://s0lc.net:8080/imagenes/4566.jpg" group-title="DEPORTES - SPORTS",CLARO SPORTS
+https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/1aa19d9c-014d-4c8d-96bf-2f441ed90f7e:TUL/variant/065a89481e8cd831e86d061b6c958aef/bandwidth/2482000.m3u8
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/119.jpg" group-title="DEPORTES - SPORTS",ESPN MX (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/152.jpg" group-title="DEPORTES - SPORTS",ESPN 2 MX (1080P)
+http://ultrontv.xyz:80/Beth/Beth/73680
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/152.jpg" group-title="DEPORTES - SPORTS",ESPN 2 MX 	
+http://ultrontv.xyz:80/Beth/Beth/73517
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/152.jpg" group-title="DEPORTES - SPORTS",ESPN 2
+http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8?token=3fecda534aedb9e0fe4a948da7942ebf
+#EXTINF:-1 tvg-id="Espn3.mx" tvg-name="ESPN 3 MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/93.jpg" group-title="DEPORTES - SPORTS",ESPN 3 MX (1080p)
+http://ultrontv.xyz:80/Beth/Beth/73681
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPN EXTRA" tvg-logo="http://s0lc.net:8080/imagenes/110.jpg" group-title="DEPORTES - SPORTS",ESPN EXTRA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/118.jpg" group-title="DEPORTES - SPORTS",FOX SPORTS MX (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/151.jpg" group-title="DEPORTES - SPORTS",FOX SPORTS 2 MX (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/1822.jpg" group-title="DEPORTES - SPORTS",FOX SPORTS 3 MX (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN MX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/5412.jpg" group-title="DEPORTES - SPORTS",TUDN MX (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=174&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC DEPORTES" tvg-logo="http://s0lc.net:8080/imagenes/3507.jpg" group-title="DEPORTES - SPORTS",TVC DEPORTES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS " tvg-logo="http://s0lc.net:8080/imagenes/3395.jpg" group-title="DEPORTES - SPORTS",TNT SPORTS (1080p)
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/kqfqxg.m3u8?s=P8KhT1Q3x9P4au2BgLYoow&e=1629543183
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/126.jpg" group-title="INFANTILES - KIDS",CARTOON NETWORK (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=112&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BITME (720p)" tvg-logo="http://s0lc.net:8080/imagenes/14640.jpg" group-title="INFANTILES - KIDS",BITME (10800p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2591&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://s0lc.net:8080/imagenes/52.jpg" group-title="INFANTILES - KIDS",BOOMERANG
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=115&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="AZTVL" tvg-logo="" group-title="INFANTILES - KIDS",AZTVL
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.pa" tvg-name="DISCOVERY KIDS" tvg-logo="http://s0lc.net:8080/imagenes/42.jpg" group-title="INFANTILES - KIDS",DISCOVERY KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREIKO TV" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/logotipo_dreikotv-1024x224.png" group-title="INFANTILES - KIDS",DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w8903886.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://s0lc.net:8080/imagenes/46.jpg" group-title="INFANTILES - KIDS",DISNEY CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=113&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JUNIOR" tvg-logo="http://s0lc.net:8080/imagenes/44.jpg" group-title="INFANTILES - KIDS",DISNEY JUNIOR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=118&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://s0lc.net:8080/imagenes/51.jpg" group-title="INFANTILES - KIDS",DISNEY XD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=111&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="NAT GEO KIDS" tvg-logo="http://s0lc.net:8080/imagenes/3280.jpg" group-title="INFANTILES - KIDS",NAT GEO KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2373&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="NickJr.pa" tvg-name="NICK JR (720p)" tvg-logo="http://s0lc.net:8080/imagenes/710.jpg" group-title="INFANTILES - KIDS",NICK JR (720p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=117&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="NICKELODEON" tvg-logo="http://s0lc.net:8080/imagenes/49.jpg" group-title="INFANTILES - KIDS",NICKELODEON
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=331&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="NICKELODEON" tvg-logo="https://www.latino-web-tv.com/wp-content/uploads/2020/10/Nick_2_Logo_alternative.png" group-title="INFANTILES - KIDS",NICK 2
+http://ultrontv.xyz:80/Beth/Beth/73729
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" tvg-logo="http://s0lc.net:8080/imagenes/18856.jpg" group-title="INFANTILES - KIDS",NICK TEEN SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1708&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="TOONCAST" tvg-logo="http://s0lc.net:8080/imagenes/54.jpg" group-title="INFANTILES - KIDS",TOONCAST 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=108&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AC VISION" tvg-logo="https://image.roku.com/developer_channels/prod/b1f7e6e1874d3c8e7937182b8ede68a093031601d44163949fc17d88fea080a0.png" group-title="INFANTILES - KIDS",AC VISION
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w2104488569.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://s0lc.net:8080/imagenes/109.jpg" group-title="MUSICA",BANDAMAX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=221&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV (720p)" tvg-logo="http://s0lc.net:8080/imagenes/3857.jpg" group-title="MUSICA",MTV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=212&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS" tvg-logo="http://s0lc.net:8080/imagenes/106.jpg" group-title="MUSICA",MTV HITS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=213&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/121.jpg" group-title="MUSICA",MTV LIVE (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=211&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/musictop.png" group-title="MEXICO",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1961277044.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="TOP LATINO (1080p)" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="MUSICA",TOP LATINO (1080p)
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1941684813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA MEGA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/la-mega-mundial.png" group-title="MUSICA",LA MEGA
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w293225700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 105" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/10/default.jpg.jpg" group-title="MUSICA",RADIO 105 
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VISION TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="MUSICA",VISION TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w255283130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAVISION" tvg-logo="https://1.bp.blogspot.com/-QAjgp3Q980s/YAsNLUl7zUI/AAAAAAAADGE/0Ap4z8WKE7s5rJiAV5uuDOKciQvFiFR_ACLcBGAsYHQ/s580/panavision-tv-venezuela.png" group-title="MUSICA",PANAVISION
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1351296437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO M20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="MUSICA",RADIO M20
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMORDISCOS TV" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA",AMORDISCOS TV
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/chunklist_b948304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAROLINA TV" tvg-logo="http://tv.wurtlitzer.info/imagenes/radios/carolinatv.png" group-title="MUSICA",CAROLINA TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAS FM 95.9 ARGENTINA" tvg-logo="https://cdn-profiles.tunein.com/s124635/images/logog.png?t=154090" group-title="MUSICA",MAS FM 95.9 ARGENTINA
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/157.jpg" group-title="MEXICO",AMC  (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=328&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA" tvg-logo="http://s0lc.net:8080/imagenes/74.jpg" group-title="MEXICO",AZTECA CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1787&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="http://s0lc.net:8080/imagenes/9.jpg" group-title="MEXICO",ADN 40
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=40&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="AZ CLIC" tvg-logo="http://s0lc.net:8080/imagenes/101.jpg" group-title="MEXICO",AZ CLIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=11&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZ CORAZON" tvg-logo="http://s0lc.net:8080/imagenes/27.jpg" group-title="MEXICO",AZ CORAZON
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=70&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="AZ MUNDO" tvg-logo="http://s0lc.net:8080/imagenes/40.jpg" group-title="MEXICO",AZ MUNDO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=84&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 CANCUN" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial.png" group-title="MEXICO",CANAL 10 CANCUN
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/chunklist_w1309495244.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3861.jpg" group-title="MEXICO",AZTECA 7 (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3862.jpg" group-title="MEXICO",AZTECA UNO (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=27&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/124.jpg" group-title="MEXICO",A&E (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=62&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLIXTUBE" tvg-logo="https://www.flixtube.me/latino/upload/source/158x52px-logo-flixtube.png" group-title="MEXICO",FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1512522933.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 PUNTA CANA" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="MEXICO",CANAL 8 PUNTA CANA
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+#EXTINF:-1 tvg-name="TNT" group-title="MEXICO",TNT
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/glaldsq.m3u8?s=ZnV6qiK6lYou3eYJlBrN6w&e=1629539934
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TNT SERIES" tvg-logo="" group-title="MEXICO",TNT SERIES
+http://ultrontv.xyz:80/Beth/Beth/73587
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/125.jpg" group-title="MEXICO",AXN (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=64&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="http://s0lc.net:8080/imagenes/3.jpg" group-title="MEXICO",CANAL 5
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2243&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="XHGV.mx" tvg-name="TVMAS" tvg-logo="http://s0lc.net:8080/imagenes/9806.jpg" group-title="MEXICO",TVMAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2324&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="MVStv.mx" tvg-name="MVS TV (1080P)" tvg-logo="http://s0lc.net:8080/imagenes/23316.jpg" group-title="MEXICO",MVS TV SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2149&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="MVStv.mx" tvg-name="MVS TV (1080P)" tvg-logo="http://s0lc.net:8080/imagenes/23316.jpg" group-title="MEXICO",MVS TV (1080P)
+https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOCD120dYw0msrzMi7LCQKs7v0yJ9TozcpBsjBBXbCIy)/p/dm/3/x6t7n6t/s/live-2.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/113.jpg" group-title="MEXICO",CINECANAL (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=149&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/18665.jpg" group-title="MEXICO",DE PELICULA (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=335&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/18666.jpg" group-title="MEXICO",DE PELICULA PLUS (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=121&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="http://s0lc.net:8080/imagenes/18665.jpg" group-title="MEXICO",LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="http://s0lc.net:8080/imagenes/38.jpg" group-title="MEXICO",DISTRITO COMEDIA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=78&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://s0lc.net:8080/imagenes/22.jpg" group-title="MEXICO",COMEDY CENTRAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=340&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! ENTERTAINMENT" tvg-logo="http://s0lc.net:8080/imagenes/3856.jpg" group-title="MEXICO",E! ENTERTAINMENT 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=55&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="http://s0lc.net:8080/imagenes/35.jpg" group-title="MEXICO",GARAGE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=75&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="El GOURMET (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/5369.jpg" group-title="MEXICO",El GOURMET (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=74&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV (1080p)" tvg-logo="https://pbs.twimg.com/media/EP3av1zVAAA7Vic.jpg" group-title="MEXICO",ESTRELLA TV (1080p)
+https://estrellatv-oando.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV (1080p)" tvg-logo="https://pbs.twimg.com/media/EP3av1zVAAA7Vic.jpg" group-title="MEXICO",ESTRELLA TV (1080p)
+https://estrella-games-oando.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/150.jpg" group-title="MEXICO",LAS ESTRELLAS (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2328&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="http://s0lc.net:8080/imagenes/356.jpg" group-title="MEXICO",TL NOVELAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=83&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="GlitzConoSur.co" tvg-name="GLITZ" tvg-logo="http://s0lc.net:8080/imagenes/36.jpg" group-title="MEXICO",GLITZ
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=76&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GALA TV" tvg-logo="http://s0lc.net:8080/imagenes/5322.jpg" group-title="MEXICO",GALA TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://s0lc.net:8080/imagenes/23.jpg" group-title="MEXICO",UNICABLE SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1499&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NUEVE" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png" group-title="MEXICO",NUEVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2248&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://s0lc.net:8080/imagenes/2846.jpg" group-title="MEXICO",FX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=60&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="http://s0lc.net:8080/imagenes/2855.jpg" group-title="MEXICO",FXM 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=138&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://s0lc.net:8080/imagenes/84.jpg" group-title="MEXICO",GOLDEN EDGE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=124&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/122.jpg" group-title="MEXICO",GOLDEN (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=123&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/8925.jpg" group-title="MEXICO",GOLDEN PREMIER (1080p)NO FUNCIONA
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/75_.m3u8?token=yyB6QCjSiRhFQJOlyuaSBw&expires=1629537954
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN (1080p)" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="MEXICO",GOLDEN PLUS (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=122&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Mex" tvg-logo="" group-title="MEXICO",Movie Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="PARAMOUNT CHANNEL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/365.jpg" group-title="MEXICO",PARAMOUNT CHANNEL (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1726&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="http://s0lc.net:8080/imagenes/3535.jpg" group-title="MEXICO",IMAGEN TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="FORO TV (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/148.jpg" group-title="MEXICO",FORO TV (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=700&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MILENIO TV (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3858.jpg" group-title="MEXICO",MILENIO TV (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1252&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Telemundo51WSCV.us" tvg-name="TELEMUNDO" tvg-logo="http://s0lc.net:8080/imagenes/111.jpg" group-title="MEXICO",TELEMUNDO
+http://209.126.105.238:25461/live/bf66aa8fbe37475e9722b500c7bdaa16/64c92ed1b374433c8486ecdccc5e1e38/65.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="INGENIO TV" tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/ingenio-tv-350x183.png" group-title="MEXICO",INGENIO TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=401&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I SAT" tvg-logo="http://s0lc.net:8080/imagenes/88.jpg" group-title="MEXICO",I SAT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=135&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="" group-title="MEXICO",UNIVISION
+http://ultrontv.xyz:80/Beth/Beth/80712
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="" group-title="MEXICO",UNIMAS
+http://ultrontv.xyz:80/Beth/Beth/80803
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET (1080P)" tvg-logo="http://s0lc.net:8080/imagenes/8926.jpg" group-title="MEXICO",ANIMAL PLANET (1080P)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2378&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3539.jpg" group-title="MEXICO",DISCOVERY CHANNEL (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=86&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY HOME and HEALTH" tvg-logo="http://s0lc.net:8080/imagenes/61.jpg" group-title="MEXICO",DISCOVERY HOME and HEALTH
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=96&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://s0lc.net:8080/imagenes/64.jpg" group-title="MEXICO",DISCOVERY SCIENCE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=98&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/8818.jpg" group-title="MEXICO",DISCOVERY THEATER (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=95&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DISCOVERY TLC" tvg-logo="http://s0lc.net:8080/imagenes/67.jpg" group-title="MEXICO",DISCOVERY TLC
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/yfbm3.m3u8?s=MP7sZ4TLTlKJpCrcl3oV4Q&e=1629534672
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO " tvg-logo="http://s0lc.net:8080/imagenes/8817.jpg" group-title="MEXICO",DISCOVERY TURBO 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2379&format=HLS&f=.m3u8
+EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="DISCOVERY CIVILIZATION (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3537.jpg" group-title="MEXICO",DISCOVERY CIVILIZATION (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=99&format=HLSAD&f=.m3u8
+EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/8816.jpg" group-title="MEXICO",DISCOVERY WORLD (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=101&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="MEXICO",DISCOVERY WORLD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=101&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NATGEO (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/687.jpg" group-title="MEXICO",NATGEO (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=91&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NAT GEO WILD (720p)" tvg-logo="http://s0lc.net:8080/imagenes/20686.jpg" group-title="MEXICO",NAT GEO WILD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=92&format=HLS&f=.m3u8
+EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/127.jpg" group-title="MEXICO",HISTORY (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=89&format=HLS&f=.m3u8
+EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY 2 (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/127.jpg" group-title="MEXICO",HISTORY 2 (1080p)
+http://209.126.124.36:40001/live/3ce5d2c0c41a4e6797e8c09a4e95a362/e3ea8eb7bd084f998720befb009a0727/55.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://s0lc.net:8080/imagenes/109.jpg" group-title="MUSICA",BANDAMAX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=221&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONECTA TV" tvg-logo="https://www.conectatv.com.mx/gallery/logo%20conecta%20tv%20(transp)%20largo-ts1603060731.png" group-title="MUSICA",CONECTA TV
+https://stream8.mexiserver.com/conectatv/conectatv/chunklist_w1449024587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELERITMO" tvg-logo="" group-title="MEXICO",TELERITMO
+http://ultrontv.xyz:80/Beth/Beth/73581
+#EXTINF:-1 tvg-id="" tvg-name="CONECTA TV" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="MUSICA",TV EXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUSICA" tvg-logo="https://inthemixstyle.com/wp-content/uploads/2019/10/telemusica-1030x800.jpg" group-title="MUSICA",TELEMUSICA
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSICA",HTV 
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/gfhi3uhgq.m3u8?s=uKPqh7AmCocKpbgmQKRBQQ&e=1629550264
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="TELEHIT" tvg-logo="http://s0lc.net:8080/imagenes/103.jpg" group-title="MUSICA",TELEHIT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=218&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="TELEHIT URBANO" tvg-logo="http://s0lc.net:8080/imagenes/108.jpg" group-title="MUSICA",TELEHIT PLUS
+http://ultrontv.xyz:80/Beth/Beth/73748
+#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="TELEHIT URBANO" tvg-logo="http://s0lc.net:8080/imagenes/108.jpg" group-title="MUSICA",TELEHIT URBANO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=218&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEVO LATINO 1 " tvg-logo="https://www.lacupulamusic.com/blog/wp-content/uploads/2018/06/vevo_logo_black.png" group-title="MUSICA",VEVO LATINO
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a9f1621dc5dd511ca14_samsung&manifest_id=20393d5a-7907-4bdb-b062-140ce9fdc851&rendition=480&session_id=6ed50813-b91e-bc1b-fe6e-bb1f73ce9d38&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=114d0b7f95dea8703fdeb1101b0fb8074e4169bb06ccd85a9f4183df6639bc6c&ipv=4&pv=1
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV (720p)" tvg-logo="http://s0lc.net:8080/imagenes/3857.jpg" group-title="MEXICO",MTV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=212&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS" tvg-logo="http://s0lc.net:8080/imagenes/106.jpg" group-title="MEXICO",MTV HITS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=213&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/121.jpg" group-title="MEXICO",MTV LIVE (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=211&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV 00s" tvg-logo="http://s0lc.net:8080/imagenes/106.jpg" group-title="MEXICO",MTV 00s
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=334&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80" tvg-logo="http://s0lc.net:8080/imagenes/106.jpg" group-title="MEXICO",MTV 80
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=214&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE MUSIC" tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" group-title="MUSICA",BEST CABLE MUSIC
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITS360" tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSICA",HITS360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8?nimblesessionid=313052171&WebM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="88 STEREO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61webXxMHXL.jpg" group-title="MUSICA",88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1296947579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OXIGENO NETWORK" tvg-logo="http://www.oxigenonetwork.com/assets/oxigenonetwork.png" group-title="MUSICA",OXIGENO NETWORK
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1210961742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCRT REGGAETON" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/06/REGUETON-350.png" group-title="MUSICA",MCRT REGGAETON
+https://stmv.negotv.com/regueton2021/regueton2021/chunklist_w1163369172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCRT POP LATINO" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/06/CULTURA-POP-250.png" group-title="MUSICA",MCRT POP LATINO
+https://stmv.negotv.com/espanolmusica/espanolmusica/chunklist_w2040697853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCRT BANDA" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/06/BANDA-350.png" group-title="MUSICA",MCRT BANDA
+https://stmv.negotv.com/bandamx/bandamx/chunklist_w1643226352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCRT TOP HITS" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/06/HITS-350.png" group-title="MUSICA",MCRT TOP HITS
+https://stmv.negotv.com/top2021/top2021/chunklist_w1322375622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCRT TOP HITS" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/06/POWER-MIX.png" group-title="MUSICA",MCRT POWER MIX
+https://stmv.negotv.com/powermixtv2021/powermixtv2021/chunklist_w1699618444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONTEVISION MUSICA" tvg-logo="http://tv.wurtlitzer.info/imagenes/canales/musica/contivisionmusica.png" group-title="MUSICA",CONTEVISION MUSICA
+https://unlimited1-us.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO (1080p)" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="MEXICO",TOP LATINO (1080p)
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1941684813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Top 100" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Top-100-PNG.png" group-title="MEXICO",Mix 24-7 Top 100
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Retro" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Mix-Retro-PNG.png" group-title="MEXICO",Mix 24-7 Retro
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Tropical" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Canal-Tropical-PNG.png" group-title="MEXICO",Mix 24-7 Tropical
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Global Hits" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Global-Hits-PNG.png" group-title="MEXICO",Mix 24-7 Global Hits
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 VdjMix Pop" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Mix-Pop-PNG.png" group-title="MEXICO",Mix 24-7 VdjMix Pop
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Conciertos" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Conciertos-PNG.png" group-title="MEXICO",Mix 24-7 Conciertos
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Vdj Retro" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Retro-PNG.png" group-title="MEXICO",Mix 24-7 Vdj Retro 
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Vdj Retro" tvg-logo="http://mix24-7.com/wp-content/uploads/2021/06/Puro-Rock-PNG.png" group-title="MEXICO",Mix 24-7 Puro Rock
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INFINITA TV" tvg-logo="" group-title="MEXICO",INFINITA TV
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w2054986532.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY" tvg-logo="http://s0lc.net:8080/imagenes/15.jpg" group-title="MEXICO",SONY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=48&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY NOVELAS" tvg-logo="http://s0lc.net:8080/imagenes/15.jpg" group-title="MEXICO",SONY NOVELAS
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/357d4cef-6f09-48ae-93c4-a35518024501/1.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY COMEDIAS" tvg-logo="http://s0lc.net:8080/imagenes/15.jpg" group-title="MEXICO",SONY COMEDIAS
+https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/b4836912-6cef-438d-b020-b399981a8de9/0.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD  (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/156.jpg" group-title="MEXICO",SPACE HD  (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=129&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER CHANNEL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/130.jpg" group-title="MEXICO",WARNER CHANNEL (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=205&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA VOZ TV TUCUMAN" tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png" group-title="MEXICO",LA VOZ TV TUCUMAN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1431585237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TU CINE(1080p)" tvg-logo="",TU CINE(1080p)
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/896x504_1755600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Roku Movie Mex" tvg-logo="https://www.gob.mx/cms/uploads/article/main_image/97057/Marca-Mexico-WebSite.jpg" group-title="MEXICO",Roku Movie Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exprezion TV" tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/02/cropped-djdjd.png" group-title="MEXICO",Exprezion TV
+https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w1371579765.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX  (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/865.jpg" group-title="MEXICO",CINEMAX  (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=158&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://s0lc.net:8080/imagenes/89.jpg" group-title="MEXICO",TCM
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=128&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="ORBIT TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/32/6f/e7/326fe7b1-c94c-ef18-bdda-8d5a3ceb3e7c/source/512x512bb.jpg" group-title="MEXICO",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w183663079.m3u8
+#EXTINF:-1 tvg-id="Fox.co" tvg-name="STAR CHANNEL (720p)" tvg-logo="http://s0lc.net:8080/imagenes/123.jpg" group-title="MEXICO",STAR CHANNEL (1080p)
+http://ultrontv.xyz:80/Beth/Beth/73695
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="STAR LIFE" tvg-logo="http://s0lc.net:8080/imagenes/37.jpg" group-title="MEXICO",STAR LIFE
+http://ultrontv.xyz:80/Beth/Beth/73530
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY" tvg-logo="http://s0lc.net:8080/imagenes/31.jpg" group-title="MEXICO",SYFY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=59&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://s0lc.net:8080/imagenes/87.jpg" group-title="MEXICO",STUDIO UNIVERSAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=57&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="STAR ACTION (720p)" tvg-logo="http://s0lc.net:8080/imagenes/116.jpg" group-title="MEXICO",STAR ACTION (720P)
+http://ultrontv.xyz:80/Beth/Beth/73692
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="STAR COMEDY (720p)" tvg-logo="http://s0lc.net:8080/imagenes/9560.jpg" group-title="MEXICO",STAR COMEDY (720p)
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/pnc0det5nknvqo.m3u8?s=wLBmUMXz954H-KfzB7xylQ&e=1629551974
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="STAR FUN (720p)" tvg-logo="http://s0lc.net:8080/imagenes/186.jpg" group-title="MEXICO",STAR FUN (720p)
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/goks9npik9.m3u8?s=jOwyb7UnfxYjSi8D4pRmRg&e=1629553397
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="STAR FUN (720p)" tvg-logo="http://s0lc.net:8080/imagenes/186.jpg" group-title="MEXICO",STAR FUN (1080p)
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/91202.m3u8
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="STAR CINEMA" tvg-logo="http://s0lc.net:8080/imagenes/72.jpg" group-title="MEXICO",STAR CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1729&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",STAR MOVIES 
+http://ultrontv.xyz:80/Beth/Beth/73531
+#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1732&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="STAR SERIES" tvg-logo="http://s0lc.net:8080/imagenes/69.jpg" group-title="MEXICO",STAR SERIES
+http://ultrontv.xyz:80/Beth/Beth/73533
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Snba5W2.jpg" group-title="Movies",ActionMAX
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="HBO  (720p)" tvg-logo="http://s0lc.net:8080/imagenes/5415.jpg" group-title="MEXICO",HBO
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/lbqtn3.m3u8?s=_3gY5iyLF-X4_0jVlNvGAg&e=16296052694
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 (720p)" tvg-logo="http://s0lc.net:8080/imagenes/378.jpg" group-title="MEXICO",HBO 2 (720p)
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71656.m3u8
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="HBO PLUS (720p)" tvg-logo="http://s0lc.net:8080/imagenes/377.jpg" group-title="MEXICO",HBO PLUS (1080p)
+https://6gwf3ff3aw.azcdn107.net:8443/hls/3dgzjbpy.m3u8?s=DRb3eUktH-JnrKbO9WwX1Q&e=1629945320
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBO FAMILY (720p)" tvg-logo="http://s0lc.net:8080/imagenes/182.jpg" group-title="PELICULAS",HBO FAMILY (720p)
+https://iptvtucuman.com/45/index.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi Mexico" tvg-name="HBO MUNDI" tvg-logo="http://s0lc.net:8080/imagenes/15942.jpg" group-title="PELICULAS",HBO MUNDI
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/8nviuzdhm5jnu.m3u8?s=v2gEcS5wJcJGyk-DWxfP_A&e=1629605585
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="HBO POP (720p)" tvg-logo="http://s0lc.net:8080/imagenes/370.jpg" group-title="PELICULAS",HBO POP (720p)
+https://5661gf5rejj3y4jx.azcdn381.net:8443/hls/rvqh1fziz.m3u8?s=zUOiz5zT45rwjyEtG5WAjw&e=1629605641
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO XTREME (720p)" tvg-logo="http://s0lc.net:8080/imagenes/371.jpg" group-title="PELICULAS",HBO XTREME (720p)
+https://6gwf3ff3aw.azcdn107.net:8443/hls/way71f4yp5a3.m3u8?s=DaCOY2NCQWvmm8xTd6lKpg&e=1629944053
+#EXTINF:-1 group-title="INFANTIL",BABY FIRST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1984&format=HLSAD&f=.m3u8       
+EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="DISCOVERY CIVILIZATION (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3537.jpg" group-title="MEXICO",DISCOVERY CIVILIZATION (1080p)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=99&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=198&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",SHOPPING
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1943&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2145&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="CULTURA",STAR TVE 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2375&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2594&format=HLSAD&f=.m3u8   
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=69&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUN SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=71&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=79&format=HLSAD&f=.m3u8   
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=199&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=217&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=219&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1842&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2113&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=3112&format=HLSAD&f=.m3u88 
+#EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=81&format=HLSAD&f=.m3u8         
+#EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=136&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=137&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=140&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=214&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA",VH1 SD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=217&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA",VH1 HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=334&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN EN ESPAÑOL SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=187&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",WOBI 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=102&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=190&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",BBC SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=191&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=192&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",NTN 24
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=194&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=196&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",HLN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=197&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=203&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",RT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=999&format=HLSAD&f=.m3u8  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1252&format=HLSAD&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1449&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1649&format=HLSAD&f=.m3u8  
+ #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2091&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS",FRANCE 24
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2402&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="DEPORTES",GOLF
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=179&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",TUDN HD (2)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1049&format=HLSAD&f=.m3u8       
+#EXTINF:-1 group-title="DEPORTES",HAVOC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2148&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2587&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=3315&format=HLSAD&f=.m3u8            
+#EXTINF:-1 group-title="MEXICO",NU9VE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=24&format=HLSAD&f=.m3u8   
+#EXTINF:-1 group-title="MEXICO",ONCE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=25&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=32&format=HLSAD&f=.m3u8   
+#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=44&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2305&format=HLSAD&f=.m3u8   
+#EXTINF:-1 group-title="MEXICO",APREDNE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=401&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1253&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",NU9VE HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1783&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO",ONCE HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=1942&format=HLSAD&f=.m3u8         
+#EXTINF:-1 group-title="MEXICO",CANAL 4 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2274&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO",CANAL 8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2307&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2312&format=HLSAD&f=.m3u8        
+#EXTINF:-1 group-title="MEXICO",TVMAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2324&format=HLSAD&f=.m3u8   
+#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2331&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2352&format=HLSAD&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO",ACADEMIA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2703&format=HLSAD&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=2882&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons (op1)" tvg-logo="https://image.tmdb.org/t/p/w500/pHrPBp8MVMjBFhQGmhwGzhyjqta.jpg" group-title="SERIES 24 HORAS",Los Simpsons
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w1823970520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8" tvg-logo="https://image.tmdb.org/t/p/w500/rmn2daXBYa6lQkqhRzf1ZWw4arf.jpg" group-title="SERIES 24 HORAS",El chavo del 8
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w881223276.m3u8
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cine-calidad.com/wp-content/uploads/2021/08/kjSyVok74kxZS1BvARGr90r52VX.jpg", Infinite 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Infinite.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/518jvSZE53L._AC_.jpg", El Sombrerero Loco | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/The.Mad.Hattee.2021.1080P-Dual-La-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/03/ES_SPAIN_SUISQ2_STAR_TSR_INSTA_VERT_1638x2048_INTL_REV.jpg", Escuadron Suicida 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/The.suicide.squad.2021.1080p-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://martincid.com/wp-content/uploads/2021/07/MV5BNGNkZmJiZTAtY2M3MC00ZTNjLThkYmQtNmMxMTg3ZTJlNDA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_-300x434.jpg", El ultimo Mercenario | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/El.%C3%9Altimo.Mercenario.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91sBA5ojHpL._AC_SY679_.jpg", Jungle Cruise 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Jungle.Cruise.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/0/2/9/19207-1-esl-CO/2-Cineco-poster-480x670px.png", La Purga por siempre | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36190-193973-20210429093602.jpg", Justicia Implacable | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Justicia.Implacable.%282021%29.2021.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Black_Widow_%28film%29_poster_019.jpg/revision/latest?cb=20210629171105", Viuda Negra 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/t1UAGfNwGF-NQBCQJDAJSkc-USrDrmwCnhdbGRo3soLirgDlroHe82JjHh0e5hjWw3ht4kcQgGwmwMR5fEXQ0hUuHPqBsAlwUYrn1vzslBeOZ2NYGR0CL_e0j6-egVt4IyjsI1w-_jBcHZS07yGbFdQ4SEb3ElY", Bebe Jefazo 2 Negocios de familia | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/07/guerra.jpg?fit=480%2C600&ssl=1", La guerra del manana | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/07/calle-1.jpg?fit=426%2C597&ssl=1", La calle del Terror | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/20/31/19785394.jpg?coixp=47&coiyp=41", El Rey Leon | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/El%20Rey%20LeonSr.Regio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/studioghibli/images/a/ac/Mi-vecino-totoro_portada_ESP.jpg/revision/latest?cb=20200411042641&path-prefix=es", Mi vecino Totoro | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Mi%20vecino%20TotoroSr.Regio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9695/nadie-cartel-9712.jpg", Nadie | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61sznT-4n3L._AC_SX466_.jpg", LUCA | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Paternidad-729485901-large.jpg", Paternidad | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Fatherhood.%282021%29.1080P-Dual-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://benditospoiler.com/wp-content/uploads/2021/04/poster-691x1024.png", El Conjuro 3 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/el%20conjuro%203%201080p-srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35838-292439-20210126075948.jpg", Juega Conmigo | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Juega.Conmigo.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/Disomnia.jpg?fit=405%2C600&ssl=1", Disomnia | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Disomnia.%282021%29.1080P-Dual-Lat-srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/g/godzilla-v/godzilla-vs-king-kong_qw9s.jpg", Godzilla vs Kong 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/21/a8/42/21a842f616dcd343a96776516f329fd2.jpg", Cara Cortada | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/CaraCortada.SrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2020/07/6d3bf3be24955540eb853cfe75318dc5-819x1024.jpg", Cruella | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Cruella.SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1", Ruega por nosotros | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Ruega.por.nosotros.SrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/ForestGump.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/AmInSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021 | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/35194-486192-20200929064626.jpg", Venganza Implacable | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Honest.thief.2020.1080srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020) | REGIOFLIX
+http://ipeteve.com/REGIOFLIX070821/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | REGIOFLIX
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | REGIOFLIX
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | REGIOFLIX
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | REGIOFLIX
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | REGIOFLIX
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | REGIOFLIX
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | REGIOFLIX
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | REGIOFLIX
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO | REGIOFLIX
+https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 | REGIOFLIX
+https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | SRREGIO.NET
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | REGIOFLIX  
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | REGIOFLIX  
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO | REGIOFLIX  
+https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles | REGIOFLIX  
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | REGIOFLIX  
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | REGIOFLIX  
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool | REGIOFLIX  
+https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | REGIOFLIX  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | REGIOFLIX  
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | REGIOFLIX  
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
